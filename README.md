@@ -2,6 +2,6 @@
 
 ## 关于作者
 
-- node爬取隐藏电商隐藏ID并生成xml：[node-pachong](https://github.com/Herrengit/miscellaneous/node-pachong) ;
-- 帮人用JQ写的日历插件: [jqCalendar](https://github.com/Herrengit/miscellaneous/jqCalendar) 
-- 用JQ模仿探探左滑右滑的效果 [jq_tantanDemo](https://github.com/Herrengit/miscellaneous/jq_tantanDemo)
+- node爬取隐藏电商隐藏ID并生成xml：[nodeReptile](https://github.com/Herrengit/miscellaneous/nodeReptile) ;
+- 帮人用JQ写的日历插件: [jqCalendars](https://github.com/Herrengit/miscellaneous/jqCalendars) 
+- 用JQ模仿探探左滑右滑的效果 [jqSlip](https://github.com/Herrengit/miscellaneous/jqSlip)
